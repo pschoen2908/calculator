@@ -2,6 +2,7 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
+[![Build Status](https://dev.azure.com/pschoen2908/Athora%20NL/_apis/build/status/pschoen2908.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/pschoen2908/Athora%20NL/_build/latest?definitionId=5&branchName=refs%2Fpull%2F1%2Fmerge)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
